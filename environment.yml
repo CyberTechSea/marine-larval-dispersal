@@ -1,0 +1,19 @@
+name: sim_env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - parcels=3.0.2
+  - numpy=1.26.4
+  - zarr=2.16.1
+  - numcodecs=0.11.0
+  - netCDF4
+  - xarray
+  - cartopy
+  - matplotlib
+  - pandas
+  - scipy
+  - pip
+  - pip:
+    - copernicusmarine==2.4.0

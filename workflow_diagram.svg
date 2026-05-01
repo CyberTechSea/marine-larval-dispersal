@@ -1,0 +1,379 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Livello_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 1200 800">
+  <!-- Generator: Adobe Illustrator 29.1.0, SVG Export Plug-In . SVG Version: 2.1.0 Build 142)  -->
+  <defs>
+    <style>
+      .st0 {
+        font-size: 8px;
+      }
+
+      .st0, .st1, .st2, .st3, .st4, .st5, .st6, .st7, .st8, .st9, .st10, .st11, .st12, .st13, .st14, .st15, .st16, .st17, .st18, .st19, .st20, .st21, .st22, .st23, .st24, .st25, .st26, .st27, .st28, .st29, .st30 {
+        isolation: isolate;
+      }
+
+      .st0, .st31, .st29 {
+        fill: #1565c0;
+      }
+
+      .st0, .st6, .st17 {
+        font-family: Arial-ItalicMT, Arial;
+        font-style: italic;
+      }
+
+      .st1, .st3, .st5, .st9, .st12, .st13, .st14, .st20, .st21, .st24, .st25, .st26, .st29 {
+        font-size: 11px;
+      }
+
+      .st1, .st20 {
+        fill: #4e342e;
+      }
+
+      .st32 {
+        fill: #eceff1;
+        stroke: #78909c;
+      }
+
+      .st33, .st4, .st5, .st8, .st11, .st25 {
+        fill: #4a148c;
+      }
+
+      .st34 {
+        fill: #8e24aa;
+      }
+
+      .st35, .st36, .st12, .st16, .st20, .st21, .st25, .st30 {
+        font-family: Arial, Arial;
+      }
+
+      .st35, .st37 {
+        letter-spacing: 0em;
+      }
+
+      .st2 {
+        font-size: 14px;
+      }
+
+      .st2, .st3, .st4, .st5, .st7, .st8, .st9, .st10, .st14, .st18, .st23, .st24, .st38, .st26, .st28, .st29 {
+        font-weight: 700;
+      }
+
+      .st2, .st3, .st4, .st5, .st8, .st9, .st10, .st14, .st18, .st23, .st24, .st38, .st26, .st28, .st29 {
+        font-family: Arial-BoldMT, Arial;
+      }
+
+      .st2, .st39, .st14, .st21, .st40, .st41 {
+        fill: #fff;
+      }
+
+      .st3, .st28 {
+        fill: #0d47a1;
+      }
+
+      .st4 {
+        font-size: 22px;
+      }
+
+      .st42 {
+        fill: #fbe9e7;
+      }
+
+      .st42, .st39 {
+        stroke: #bf360c;
+      }
+
+      .st42, .st39, .st43, .st44, .st40, .st41, .st45, .st46 {
+        stroke-width: 1.2px;
+      }
+
+      .st37, .st47, .st48 {
+        font-family: MyriadPro-Regular, 'Myriad Pro';
+      }
+
+      .st49 {
+        fill: #ede7f6;
+      }
+
+      .st49, .st41, .st45 {
+        stroke: #4a148c;
+      }
+
+      .st49, .st50 {
+        stroke-width: 1.5px;
+      }
+
+      .st6, .st7, .st8, .st10, .st15, .st18, .st28 {
+        font-size: 12px;
+      }
+
+      .st6, .st17 {
+        fill: #5a6a7a;
+      }
+
+      .st7 {
+        fill: #212121;
+        font-family: CourierNewPS-BoldMT, 'Courier New';
+      }
+
+      .st47 {
+        letter-spacing: 0em;
+      }
+
+      .st51 {
+        fill: #43a047;
+      }
+
+      .st52 {
+        fill: #37474f;
+      }
+
+      .st9, .st10, .st53 {
+        fill: #bf360c;
+      }
+
+      .st54 {
+        fill: #00897b;
+      }
+
+      .st11 {
+        font-size: 10px;
+      }
+
+      .st12, .st13, .st16, .st22, .st23, .st27 {
+        fill: #1a2340;
+      }
+
+      .st55 {
+        fill: #26a69a;
+      }
+
+      .st15 {
+        fill: #f57f17;
+      }
+
+      .st16, .st19, .st22, .st27, .st30 {
+        font-size: 10.5px;
+      }
+
+      .st17 {
+        font-size: 13px;
+      }
+
+      .st18, .st26 {
+        fill: #1b5e20;
+      }
+
+      .st43 {
+        fill: #f5f5f5;
+        stroke: #455a64;
+      }
+
+      .st19, .st24, .st30 {
+        fill: #455a64;
+      }
+
+      .st21 {
+        opacity: .9;
+      }
+
+      .st56 {
+        fill: none;
+        stroke: #37474f;
+        stroke-width: 2px;
+      }
+
+      .st57 {
+        fill: #e53935;
+      }
+
+      .st44 {
+        fill: #e3f2fd;
+      }
+
+      .st44, .st40 {
+        stroke: #1565c0;
+      }
+
+      .st58 {
+        fill: #0288d1;
+      }
+
+      .st22 {
+        font-family: CourierNewPSMT, 'Courier New';
+      }
+
+      .st59 {
+        fill: #00695c;
+      }
+
+      .st23 {
+        font-size: 20px;
+      }
+
+      .st60 {
+        fill: #558b2f;
+      }
+
+      .st45 {
+        fill: #f3e5f5;
+      }
+
+      .st61 {
+        fill: #f9a825;
+      }
+
+      .st62 {
+        fill: #fb8c00;
+      }
+
+      .st50 {
+        fill: #fffde7;
+        stroke: #f9a825;
+      }
+
+      .st63 {
+        fill: #1e88e5;
+      }
+
+      .st46 {
+        fill: #e8f5e9;
+        stroke: #00695c;
+      }
+
+      .st64 {
+        fill: #f7f9fc;
+      }
+    </style>
+  </defs>
+  <rect class="st64" width="1200" height="800" rx="12" ry="12"/>
+  <text class="st23" transform="translate(302.7 42)"><tspan x="0" y="0">OceanParcels-CMEMS — Lagrangian Larval Dispersal Pipeline</tspan></text>
+  <text class="st17" transform="translate(394.2 66)"><tspan x="0" y="0">A Validated Python Pipeline for Coastal Lagrangian Dispersal Modelling</tspan></text>
+  <rect class="st31" x="30" y="90" width="260" height="60" rx="8" ry="8"/>
+  <text class="st21" transform="translate(141 114)"><tspan x="0" y="0">Stage 1</tspan></text>
+  <text class="st2" transform="translate(105 134)"><tspan x="0" y="0">Data Acquisition</tspan></text>
+  <rect class="st59" x="320" y="90" width="260" height="60" rx="8" ry="8"/>
+  <text class="st21" transform="translate(431 114)"><tspan x="0" y="0">Stage 2</tspan></text>
+  <text class="st2" transform="translate(380.8 134)"><tspan x="0" y="0">Validation &amp; FieldSet</tspan></text>
+  <rect class="st33" x="610" y="90" width="260" height="60" rx="8" ry="8"/>
+  <text class="st21" transform="translate(721 114)"><tspan x="0" y="0">Stage 3</tspan></text>
+  <text class="st2" transform="translate(704.2 134)"><tspan x="0" y="0">Simulation</tspan></text>
+  <rect class="st53" x="900" y="90" width="270" height="60" rx="8" ry="8"/>
+  <text class="st21" transform="translate(1016 114)"><tspan x="0" y="0">Stage 4</tspan></text>
+  <text class="st2" transform="translate(954.2 134)"><tspan x="0" y="0">Analysis &amp; Visualisation</tspan></text>
+  <line class="st56" x1="290" y1="120" x2="318" y2="120"/>
+  <polygon class="st52" points="318 115 330 120 318 125 318 115"/>
+  <line class="st56" x1="580" y1="120" x2="608" y2="120"/>
+  <polygon class="st52" points="608 115 620 120 608 125 608 115"/>
+  <line class="st56" x1="870" y1="120" x2="898" y2="120"/>
+  <polygon class="st52" points="898 115 910 120 898 125 898 115"/>
+  <rect class="st44" x="30" y="170" width="260" height="80" rx="6" ry="6"/>
+  <text class="st28" transform="translate(113.3 197)"><tspan x="0" y="0">CMEMS Product</tspan></text>
+  <text class="st12" transform="translate(63.4 215)"><tspan x="0" y="0">MEDSEA_MULTIYEAR_PHY_006_004</tspan></text>
+  <text class="st12" transform="translate(78.5 232)"><tspan x="0" y="0">Variables: uo, vo | Depth: 0–43 m</tspan></text>
+  <text class="st12" transform="translate(79.2 249)"><tspan x="0" y="0">Resolution: ~4.2 km | Daily mean</tspan></text>
+  <rect class="st44" x="30" y="265" width="260" height="55" rx="6" ry="6"/>
+  <text class="st3" transform="translate(102.2 287)"><tspan x="0" y="0">copernicusmarine CLI</tspan></text>
+  <text class="st22" transform="translate(87.5 304)"><tspan x="0" y="0">copernicusmarine subset</tspan></text>
+  <text class="st22" transform="translate(74.9 318)"><tspan x="0" y="0">--variable uo --variable vo</tspan></text>
+  <rect class="st46" x="320" y="170" width="260" height="80" rx="6" ry="6"/>
+  <text class="st18" transform="translate(395 197)"><tspan x="0" y="0">Grid Cell Validation</tspan></text>
+  <text class="st12" transform="translate(363.5 215)"><tspan x="0" y="0">find_ocean_cell() scans NEMO grid</tspan></text>
+  <text class="st13" transform="translate(375.5 232)"><tspan class="st36" x="0" y="0">Detects land fill: |u| &gt; 10</tspan><tspan class="st48" x="117.3" y="0">²⁰</tspan><tspan class="st36" x="124.4" y="0" xml:space="preserve"> m/s</tspan></text>
+  <text class="st12" transform="translate(371.1 249)"><tspan x="0" y="0">Relocates coastal sites to ocean</tspan></text>
+  <rect class="st46" x="320" y="265" width="260" height="55" rx="6" ry="6"/>
+  <text class="st26" transform="translate(392.9 287)"><tspan x="0" y="0">FieldSet Construction</tspan></text>
+  <text class="st12" transform="translate(359.5 305)"><tspan x="0" y="0">OceanParcels FieldSet.from_netcdf()</tspan></text>
+  <text class="st13" transform="translate(366.9 320)"><tspan class="st36" x="0" y="0">Bilinear interpolation </tspan><tspan class="st48" x="102.7" y="0">·</tspan><tspan class="st36" x="105" y="0" xml:space="preserve"> Time-linear</tspan></text>
+  <rect class="st45" x="610" y="170" width="260" height="80" rx="6" ry="6"/>
+  <text class="st8" transform="translate(689.7 197)"><tspan x="0" y="0">Advection — RK4</tspan></text>
+  <text class="st12" transform="translate(656.8 215)"><tspan x="0" y="0">AdvectionRK4 kernel | dt = 20 min</tspan></text>
+  <text class="st12" transform="translate(676.4 232)"><tspan x="0" y="0">300 particles/site/replicate</tspan></text>
+  <text class="st13" transform="translate(655.2 249)"><tspan class="st36" x="0" y="0">6 sites </tspan><tspan class="st48" x="34.8" y="0">×</tspan><tspan class="st36" x="41.4" y="0" xml:space="preserve"> 6 replicates = 10,800 total</tspan></text>
+  <rect class="st45" x="610" y="265" width="260" height="55" rx="6" ry="6"/>
+  <text class="st8" transform="translate(694 287)"><tspan x="0" y="0">Custom Kernels</tspan></text>
+  <text class="st13" transform="translate(666.6 305)"><tspan class="st36" x="0" y="0">boundary_check </tspan><tspan class="st48" x="83.8" y="0">·</tspan><tspan class="st36" x="86.1" y="0" xml:space="preserve"> age_kernel</tspan></text>
+  <text class="st12" transform="translate(667.4 320)"><tspan x="0" y="0">settle_kernel (PLD = 60 days)</tspan></text>
+  <rect class="st42" x="900" y="170" width="270" height="80" rx="6" ry="6"/>
+  <text class="st10" transform="translate(1008.3 197)"><tspan x="0" y="0">Statistics</tspan></text>
+  <text class="st12" transform="translate(961.9 215)"><tspan x="0" y="0">Haversine dispersal distances</tspan></text>
+  <text class="st12" transform="translate(972.6 232)"><tspan x="0" y="0">Connectivity matrix C[s,d]</tspan></text>
+  <text class="st12" transform="translate(959.9 249)"><tspan x="0" y="0">Threshold: 50 km | CSV export</tspan></text>
+  <rect class="st42" x="900" y="265" width="270" height="55" rx="6" ry="6"/>
+  <text class="st10" transform="translate(966.1 287)"><tspan x="0" y="0">Visualisation — Cartopy</tspan></text>
+  <text class="st13" transform="translate(949.1 305)"><tspan class="st36" x="0" y="0">Trajectory maps </tspan><tspan class="st48" x="81.9" y="0">·</tspan><tspan class="st36" x="84.2" y="0" xml:space="preserve"> Seasonal panels</tspan></text>
+  <text class="st13" transform="translate(955.2 320)"><tspan class="st36" x="0" y="0">Connectivity heatmap </tspan><tspan class="st48" x="108.8" y="0">·</tspan><tspan class="st36" x="111.1" y="0" xml:space="preserve"> Boxplots</tspan></text>
+  <rect class="st50" x="30" y="345" width="550" height="65" rx="6" ry="6"/>
+  <text class="st15" transform="translate(42 368)"><tspan class="st48" x="0" y="0">⚠</tspan><tspan class="st38" x="6" y="0" xml:space="preserve"> Dependency Conflict (resolved)</tspan></text>
+  <text class="st20" transform="translate(42 386)"><tspan x="0" y="0">copernicusmarine 2.4.0 requires zarr ≥ 2.18 + numpy ≥ 2.1</tspan></text>
+  <text class="st1" transform="translate(42 402)"><tspan class="st36" x="0" y="0">OceanParcels 3.0.2 requires zarr 2.16.x + numpy 1.26.x </tspan><tspan class="st48" x="276.1" y="0">→</tspan><tspan class="st36" x="281.6" y="0" xml:space="preserve"> re-pin after download</tspan></text>
+  <rect class="st50" x="610" y="345" width="560" height="65" rx="6" ry="6"/>
+  <text class="st15" transform="translate(622 368)"><tspan class="st48" x="0" y="0">⚠</tspan><tspan class="st38" x="6" y="0" xml:space="preserve"> OceanParcels 3.x API Change (resolved)</tspan></text>
+  <text class="st20" transform="translate(622 386)"><tspan x="0" y="0">recovery parameter removed from ParticleSet.execute()</tspan></text>
+  <text class="st20" transform="translate(622 402)"><tspan x="0" y="0">Replaced by boundary_check kernel (JIT-compatible)</tspan></text>
+  <text class="st6" transform="translate(557.3 452)"><tspan x="0" y="0">Pipeline outputs</tspan></text>
+  <rect class="st40" x="30" y="460" width="220" height="58" rx="6" ry="6"/>
+  <text class="st29" transform="translate(95.7 483)"><tspan x="0" y="0">med_currents.nc</tspan></text>
+  <text class="st27" transform="translate(70.7 499)"><tspan class="st36" x="0" y="0">~15–25 GB </tspan><tspan class="st48" x="56.3" y="0">·</tspan><tspan class="st36" x="58.5" y="0" xml:space="preserve"> 3,468 timesteps</tspan></text>
+  <text class="st16" transform="translate(78.1 513)"><tspan x="0" y="0">DOI: 10.48670/mds-00375</tspan></text>
+  <rect class="st41" x="270" y="460" width="220" height="58" rx="6" ry="6"/>
+  <text class="st5" transform="translate(340.1 483)"><tspan x="0" y="0">traj_*.zarr (×36)</tspan></text>
+  <text class="st27" transform="translate(332.4 499)"><tspan class="st36" x="0" y="0">6 sites </tspan><tspan class="st48" x="33.3" y="0">×</tspan><tspan class="st35" x="39.5" y="0" xml:space="preserve"> 6 replicates</tspan></text>
+  <text class="st16" transform="translate(347.7 513)"><tspan x="0" y="0">~2–5 GB total</tspan></text>
+  <rect class="st39" x="510" y="460" width="220" height="58" rx="6" ry="6"/>
+  <text class="st9" transform="translate(579 483)"><tspan x="0" y="0">Statistics (CSV)</tspan></text>
+  <text class="st16" transform="translate(566.6 499)"><tspan x="0" y="0">dispersal_statistics.csv</tspan></text>
+  <text class="st16" transform="translate(566 513)"><tspan x="0" y="0">connectivity_matrix.csv</tspan></text>
+  <rect class="st39" x="750" y="460" width="200" height="58" rx="6" ry="6"/>
+  <text class="st9" transform="translate(813 483)"><tspan x="0" y="0">Figures (PNG)</tspan></text>
+  <text class="st16" transform="translate(812.4 499)"><tspan x="0" y="0">Trajectory maps</tspan></text>
+  <text class="st16" transform="translate(799.5 513)"><tspan x="0" y="0">Connectivity heatmap</tspan></text>
+  <rect class="st39" x="970" y="460" width="200" height="58" rx="6" ry="6"/>
+  <text class="st9" transform="translate(1019.9 483)"><tspan x="0" y="0">Seasonal Overview</tspan></text>
+  <text class="st16" transform="translate(1018.3 499)"><tspan x="0" y="0">6-panel monthly maps</tspan></text>
+  <text class="st27" transform="translate(1016.6 513)"><tspan class="st36" x="0" y="0">All sites </tspan><tspan class="st37" x="39.1" y="0">·</tspan><tspan class="st36" x="41.3" y="0" xml:space="preserve"> All replicates</tspan></text>
+  <text class="st6" transform="translate(581.7 558)"><tspan x="0" y="0">Scripts</tspan></text>
+  <rect class="st43" x="30" y="566" width="360" height="52" rx="6" ry="6"/>
+  <text class="st7" transform="translate(141.6 589)"><tspan x="0" y="0">larval_dispersal.py</tspan></text>
+  <text class="st19" transform="translate(110.5 607)"><tspan class="st36" x="0" y="0">Main: download </tspan><tspan class="st48" x="76.5" y="0">→</tspan><tspan class="st36" x="81.7" y="0" xml:space="preserve"> simulate </tspan><tspan class="st48" x="126.6" y="0">→</tspan><tspan class="st36" x="131.9" y="0" xml:space="preserve"> analyse </tspan><tspan class="st48" x="173.9" y="0">→</tspan><tspan class="st36" x="179.2" y="0" xml:space="preserve"> plot</tspan></text>
+  <rect class="st43" x="420" y="566" width="360" height="52" rx="6" ry="6"/>
+  <text class="st7" transform="translate(524.4 589)"><tspan x="0" y="0">plot_comprehensive.py</tspan></text>
+  <text class="st30" transform="translate(515.7 607)"><tspan x="0" y="0">Per-site panels + boxplot + retention</tspan></text>
+  <rect class="st43" x="810" y="566" width="360" height="52" rx="6" ry="6"/>
+  <text class="st7" transform="translate(932.4 589)"><tspan x="0" y="0">plot_overview.py</tspan></text>
+  <text class="st19" transform="translate(908.3 607)"><tspan class="st36" x="0" y="0">Overview maps </tspan><tspan class="st37" x="75.3" y="0">·</tspan><tspan class="st36" x="77.4" y="0" xml:space="preserve"> Re-plot from Zarr</tspan></text>
+  <text class="st24" transform="translate(30 650)"><tspan x="0" y="0">6 monthly replicates:</tspan></text>
+  <rect class="st31" x="185" y="635" width="80" height="28" rx="4" ry="4"/>
+  <text class="st14" transform="translate(203.9 654)"><tspan x="0" y="0">January</tspan></text>
+  <rect class="st58" x="275" y="635" width="80" height="28" rx="4" ry="4"/>
+  <text class="st14" transform="translate(291.5 654)"><tspan x="0" y="0">February</tspan></text>
+  <rect class="st54" x="365" y="635" width="80" height="28" rx="4" ry="4"/>
+  <text class="st14" transform="translate(388.8 654)"><tspan x="0" y="0">March</tspan></text>
+  <rect class="st60" x="455" y="635" width="80" height="28" rx="4" ry="4"/>
+  <text class="st14" transform="translate(482.5 654)"><tspan x="0" y="0">April</tspan></text>
+  <rect class="st61" x="545" y="635" width="80" height="28" rx="4" ry="4"/>
+  <text class="st14" transform="translate(574.3 654)"><tspan x="0" y="0">May</tspan></text>
+  <rect class="st57" x="635" y="635" width="80" height="28" rx="4" ry="4"/>
+  <text class="st14" transform="translate(662.2 654)"><tspan x="0" y="0">June</tspan></text>
+  <text class="st24" transform="translate(30 700)"><tspan x="0" y="0">6 release sites:</tspan></text>
+  <rect class="st57" x="185" y="685" width="80" height="28" rx="4" ry="4"/>
+  <text class="st14" transform="translate(217.1 704)"><tspan x="0" y="0">GE</tspan></text>
+  <rect class="st62" x="275" y="685" width="80" height="28" rx="4" ry="4"/>
+  <text class="st14" transform="translate(307.4 704)"><tspan x="0" y="0">EB</tspan></text>
+  <rect class="st34" x="365" y="685" width="80" height="28" rx="4" ry="4"/>
+  <text class="st14" transform="translate(397.1 704)"><tspan x="0" y="0">NA</tspan></text>
+  <rect class="st63" x="455" y="685" width="80" height="28" rx="4" ry="4"/>
+  <text class="st14" transform="translate(488.1 704)"><tspan x="0" y="0">TA</tspan></text>
+  <rect class="st55" x="545" y="685" width="80" height="28" rx="4" ry="4"/>
+  <text class="st14" transform="translate(577.8 704)"><tspan x="0" y="0">PA</tspan></text>
+  <rect class="st51" x="635" y="685" width="80" height="28" rx="4" ry="4"/>
+  <text class="st14" transform="translate(666.8 704)"><tspan x="0" y="0">MS</tspan></text>
+  <rect class="st49" x="760" y="635" width="160" height="78" rx="6" ry="6"/>
+  <text class="st4" transform="translate(806.4 664)"><tspan x="0" y="0">10,800</tspan></text>
+  <text class="st25" transform="translate(807.6 682)"><tspan x="0" y="0">particles total</tspan></text>
+  <text class="st11" transform="translate(781.1 698)"><tspan class="st36" x="0" y="0">300 </tspan><tspan class="st48" x="19.5" y="0">×</tspan><tspan class="st36" x="25.4" y="0" xml:space="preserve"> 6 sites </tspan><tspan class="st48" x="59.9" y="0">×</tspan><tspan class="st36" x="65.8" y="0" xml:space="preserve"> 6 replicates</tspan></text>
+  <rect class="st32" x="30" y="730" width="920" height="50" rx="6" ry="6"/>
+  <text class="st24" transform="translate(436 752)"><tspan x="0" y="0">environment.yml</tspan></text>
+  <text class="st19" transform="translate(239 770)"><tspan class="st36" x="0" y="0">Python 3.11 </tspan><tspan class="st48" x="59" y="0">·</tspan><tspan class="st36" x="61.1" y="0" xml:space="preserve"> OceanParcels 3.0.2 </tspan><tspan class="st47" x="159.2" y="0">·</tspan><tspan class="st35" x="161.4" y="0" xml:space="preserve"> zarr 2.16.1 </tspan><tspan class="st37" x="217.4" y="0">·</tspan><tspan class="st36" x="219.6" y="0" xml:space="preserve"> numpy 1.26.4 </tspan><tspan class="st47" x="289" y="0">·</tspan><tspan class="st35" x="291.2" y="0" xml:space="preserve"> Cartopy </tspan><tspan class="st48" x="333.8" y="0">·</tspan><tspan class="st36" x="336" y="0" xml:space="preserve"> xarray </tspan><tspan class="st48" x="371" y="0">·</tspan><tspan class="st36" x="373.1" y="0" xml:space="preserve"> netCDF4 </tspan><tspan class="st47" x="421" y="0">·</tspan><tspan class="st35" x="423.2" y="0" xml:space="preserve"> pandas</tspan></text>
+  <rect class="st40" x="970" y="730" width="200" height="50" rx="6" ry="6"/>
+  <text class="st29" transform="translate(1021.4 752)"><tspan x="0" y="0">GitHub Repository</tspan></text>
+  <text class="st0" transform="translate(981.6 770)"><tspan x="0" y="0">github.com/CyberTechSea/marine-larval-dispersal/</tspan></text>
+</svg>

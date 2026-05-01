@@ -387,6 +387,6 @@ If you use these scripts in your research, please cite:
 > [AUTHORS] (2025). A Validated Python Pipeline for Coastal Lagrangian Dispersal
 > Modelling with OceanParcels 3.x and CMEMS: Resolving Dependency Conflicts and
 > NEMO Grid Validation (v1.0.0). Zenodo.
-> https://doi.org/10.5281/zenodo.[XXXXXXX]
+> https://doi.org/10.5281/zenodo.19955060
 >
 > GitHub: https://github.com/CyberTechSea/marine-larval-dispersal

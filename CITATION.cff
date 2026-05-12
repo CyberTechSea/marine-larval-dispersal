@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: "Patti"
+    given-names: "Francesco Paolo"
+    orcid: "https://orcid.org/0000-0002-7975-2947"
+title: "marine-larval-dispersal"
+version: 1.0.1
+doi: https://doi.org/10.5281/zenodo.19955061
+date-released: 2026-05-11
+url: "https://github.com/CyberTechSea/marine-larval-dispersal"
+repository-code: "https://github.com/CyberTechSea/marine-larval-dispersal"
+keywords:
+  - marine science
+  - larval dispersal
+  - bio-oceanography
+  - bioinformatics
+license: MIT

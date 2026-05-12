@@ -384,11 +384,8 @@ MIT License — see [LICENSE](LICENSE) for details.
 
 If you use these scripts in your research, please cite:
 
-> A Validated Python Pipeline for Coastal Lagrangian Dispersal
-> Modelling with OceanParcels 3.x and CMEMS: Resolving Dependency Conflicts and
-> NEMO Grid Validation.
-> 
-> Francesco Paolo Patti @ CyberTechSea. (2026). CyberTechSea/marine-larval-dispersal: v1.0.0 (v1.0.0).
+> Francesco Paolo Patti Zoological Station Anton Dohrn (2026).
+> A Validated Python Pipeline for Coastal Lagrangian Dispersal Modelling with OceanParcels 3.x and CMEMS (v1.0.0).
 > 
 > Zenodo. https://doi.org/10.5281/zenodo.19955061
 >
